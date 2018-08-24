@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "https://whispering-cliffs-82480.herokuapp.com";
+	    return "https://polar-journey-23475.herokuapp.com/";
 	  }
 	};
 

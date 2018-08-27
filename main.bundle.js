@@ -412,9 +412,9 @@
 	var baseURL = function baseURL() {
 	  var host = window.location.hostname;
 	  if (host === "localhost" || host === "127.0.0.1") {
-	    return "http://localhost:3000";
+	    return "http://localhost:8000";
 	  } else {
-	    return "https://polar-journey-23475.herokuapp.com/";
+	    return "https://polar-journey-23475.herokuapp.com";
 	  }
 	};
 
